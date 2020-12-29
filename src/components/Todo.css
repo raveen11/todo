@@ -1,0 +1,45 @@
+.create_todo{
+    background-color: rgb(17, 189, 103);
+    text-align: center;
+    justify-content: center;
+    height: 210px;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.search{
+    width: 90%;
+    background-color: rgb(231, 36, 75);
+}
+
+.head{
+    text-align: center;
+}
+h1{
+    color: black;
+    font-weight: bolder;
+}
+
+.btns{
+    margin-left:88%;
+}
+
+.card{
+    background-color: rgb(237, 245, 243);
+    height: 100px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border: cadetblue 1px solid;
+}
+
+.text{
+    font-size: 20px;
+    color: rgb(15, 34, 75);
+    text-align: start;
+    margin: 10px;
+    
+}
